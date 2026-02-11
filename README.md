@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <title>Valentine 💖</title>
@@ -65,7 +64,7 @@
 
     function yesClicked() {
       document.body.innerHTML =
-        "<h1>i Lovee youuuu Bewww</h1>";
+        "<h1>hehe, i Lovee youuuu Bewww!!!!!</h1>";
     }
   </script>
 
