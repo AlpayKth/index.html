@@ -37,7 +37,6 @@
 <h1>Will you be my Valentine? 💘</h1>
 <body>
 
-  <h1>Will you be my Valentine? 💘</h1>
 
   <button id="yesBtn" onclick="yesClicked()">YES</button>
   <button id="noBtn" onclick="noClicked()">NO</button>
